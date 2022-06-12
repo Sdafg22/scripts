@@ -1,3 +1,4 @@
+$cat 
 #!/system/bin/sh
 
 # Release keys
